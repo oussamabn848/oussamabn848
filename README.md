@@ -1,15 +1,17 @@
 <h1 align="center">👋 Hey, I'm Oussama!</h1>
 
 <p align="center">
-  💻 Computer Science Student | 🐍 Python Developer | ⚙️ C Programmer
+  💻 Computer Science Student
   <br>
-  🌐 Networking Enthusiast | 🚀 Future Web Developer
+  🐍 Python Developer | ⚙️ C Programmer | 🌐 Networking
+  <br>
+  🚀 Future Web Developer
 </p>
 
 <div align="center">
   <img
-    src="./assets/oussama-coding.png"
-    alt="Oussama Programming"
+    src="./assets/oussama-coding.gif"
+    alt="Oussama Coding"
     width="900"
   />
 </div>
@@ -17,8 +19,9 @@
 <br>
 
 <p align="center">
-  <b>Learn • Build • Improve • Repeat</b>
+  <b>Learn • Build • Improve • Repeat 🚀</b>
 </p>
+
 I'm **Oussama**, a Computer Science student from Algeria passionate about **programming, networking, web development, and technology**.
 
 I enjoy learning new technologies, building projects, solving problems, and improving my technical skills step by step.
