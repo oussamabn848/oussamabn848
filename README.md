@@ -1,6 +1,8 @@
-👋 Hey, I'm Oussama!
+# 👋 Hey, I'm Oussama!
 
 💻 Computer Science Student | 🐍 Python Developer | ⚙️ C Programmer | 🌐 Networking Enthusiast | 🚀 Future Web Developer
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="275px"/>
+  
 I'm **Oussama**, a Computer Science student from Algeria passionate about **programming, networking, web development, and technology**.
 
 I enjoy learning new technologies, building projects, solving problems, and improving my technical skills step by step.
@@ -27,7 +29,7 @@ I'm currently focusing on strengthening my programming foundations and learning 
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c" />
+<img src="https://skillicons.dev/icons?i=python,c,linux" />
 </p>
 
 ---
@@ -118,9 +120,9 @@ Here are some of my projects:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=oussamabn848&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama BnE&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -147,11 +149,11 @@ My current goals are:
 ## 📫 Connect With Me
 
 <p>
-<a href="https://github.com/oussamabn848">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/Oussama BN/">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
@@ -167,3 +169,4 @@ I'm learning, building, and improving every day. 🚀
 ---
 
 ⭐ **Thanks for visiting my profile!**
+
