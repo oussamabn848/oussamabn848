@@ -9,6 +9,8 @@ I enjoy learning new technologies, building projects, solving problems, and impr
 
 I'm currently focusing on strengthening my programming foundations and learning **modern web development** to build useful and responsive websites.
 
+
+
 ---
 
 ## 🧐 About Me
