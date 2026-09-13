@@ -1,8 +1,23 @@
-# 👋 Hey, I'm Oussama!
+<h1 align="center">👋 Hey, I'm Oussama!</h1>
 
-💻 Computer Science Student | 🐍 Python Developer | ⚙️ C Programmer | 🌐 Networking Enthusiast | 🚀 Future Web Developer
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
+  💻 Computer Science Student | 🐍 Python Developer | ⚙️ C Programmer
+  <br>
+  🌐 Networking Enthusiast | 🚀 Future Web Developer
+</p>
+
+<div align="center">
+  <img
+    src="./assets/oussama-coding.png"
+    alt="Oussama Programming"
+    width="900"
+  />
+</div>
+
+<br>
+
+<p align="center">
+  <b>Learn • Build • Improve • Repeat</b>
 </p>
 I'm **Oussama**, a Computer Science student from Algeria passionate about **programming, networking, web development, and technology**.
 
