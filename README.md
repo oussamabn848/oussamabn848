@@ -1,7 +1,9 @@
 # 👋 Hey, I'm Oussama!
 
 💻 Computer Science Student | 🐍 Python Developer | ⚙️ C Programmer | 🌐 Networking Enthusiast | 🚀 Future Web Developer
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
+</p>
 I'm **Oussama**, a Computer Science student from Algeria passionate about **programming, networking, web development, and technology**.
 
 I enjoy learning new technologies, building projects, solving problems, and improving my technical skills step by step.
