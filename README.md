@@ -1,10 +1,6 @@
-<div align="center">
-  <img
-    src="./assets/oussama-coding.gif"
-    alt="Oussama Coding"
-    width="900"
-  />
-</div>
+👋 Hey, I'm Oussama!
+
+💻 Computer Science Student | 🐍 Python Developer | ⚙️ C Programmer | 🌐 Networking Enthusiast | 🚀 Future Web Developer
 I'm **Oussama**, a Computer Science student from Algeria passionate about **programming, networking, web development, and technology**.
 
 I enjoy learning new technologies, building projects, solving problems, and improving my technical skills step by step.
