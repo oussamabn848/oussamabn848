@@ -1,34 +1,170 @@
-## Hi there 👋
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+# 👋 Hey, I'm Oussama!
 
+💻 Computer Science Student | 🐍 Python Developer | ⚙️ C Programmer | 🌐 Networking Enthusiast | 🚀 Future Web Developer
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
+I'm **Oussama**, a Computer Science student from Algeria passionate about **programming, networking, web development, and technology**.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+I enjoy learning new technologies, building projects, solving problems, and improving my technical skills step by step.
 
-<br>
-### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+I'm currently focusing on strengthening my programming foundations and learning **modern web development** to build useful and responsive websites.
+
+---
+
+## 🧐 About Me
+
+* 🎓 I'm a **Computer Science student**
+* 🐍 I work with **Python**
+* ⚙️ I have experience with **C programming**
+* 🌐 I'm interested in **Computer Networks**
+* 💻 Currently learning **Web Development**
+* 🎨 Learning **HTML, CSS & JavaScript**
+* 🔧 Interested in **Git & GitHub**
+* 🚀 I'm always looking to learn new technologies
+* 🌍 Based in **Algeria**
+* 📚 My goal is to continuously improve my skills and work on real-world projects
+
+---
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c" />
+</p>
+
+---
+
+## 🌐 Web Development
+
+Currently learning and improving my skills in:
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+My goal is to become capable of building:
+
+* 🌐 Modern websites
+* 📱 Responsive web interfaces
+* 🛒 E-commerce websites
+* 📊 Interactive web applications
+* ⚙️ Full-stack projects in the future
+
+---
+
+## 🌐 Networking
+
+I also have an interest in **computer networking** and IT infrastructure.
+
+I'm learning about:
+
+* 🔌 Network fundamentals
+* 🌐 IP addresses
+* 🖥️ MAC addresses
+* 🔀 Switches and routers
+* 📡 Network topologies
+* 🔄 TCP/IP
+* 🛡️ Basic network security
+* 📚 CCNA-related networking concepts
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,linux,vscode" />
+</p>
+
+---
+
+## 🚀 What I'm Currently Learning
+
+```text
+Python          ███████████████░░░  Advanced Foundations
+C Programming   ████████████░░░░░░  Intermediate
+Networking      ███████████░░░░░░░  Intermediate
+HTML            █████████████░░░░░  Learning
+CSS             ███████████░░░░░░░  Learning
+JavaScript      ████████░░░░░░░░░░  Learning
+Git & GitHub    ██████████░░░░░░░░  Learning
+Linux           ████████░░░░░░░░░░  Learning
+```
+
+---
+
+## 📂 Featured Projects
+
+Here are some of my projects:
+
+### 🌐 Web Development
+
+🔗 Coming soon...
+
+### 🐍 Python Projects
+
+🔗 Coming soon...
+
+### ⚙️ C Projects
+
+🔗 Coming soon...
+
+### 🌐 Networking Projects
+
+🔗 Coming soon...
+
+> I'm continuously adding new projects as I learn and improve.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🎯 My Goals
+
+My current goals are:
+
+```text
+✅ Improve Python
+✅ Improve C programming
+✅ Strengthen Networking fundamentals
+🔄 Master HTML & CSS
+🔄 Learn JavaScript
+🔄 Build real-world websites
+🔄 Improve Git & GitHub skills
+🚀 Learn modern frameworks
+🚀 Become a professional Web Developer
+```
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://github.com/oussamabn848">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/Oussama BN/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> "Every expert was once a beginner."
+
+I'm learning, building, and improving every day. 🚀
+
+---
+
+⭐ **Thanks for visiting my profile!**
