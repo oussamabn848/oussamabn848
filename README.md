@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Oussama!
 
 💻 Computer Science Student | 🐍 Python Developer | ⚙️ C Programmer | 🌐 Networking Enthusiast | 🚀 Future Web Developer
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="275px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
   
 I'm **Oussama**, a Computer Science student from Algeria passionate about **programming, networking, web development, and technology**.
 
